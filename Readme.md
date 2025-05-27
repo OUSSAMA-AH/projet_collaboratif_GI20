@@ -8,7 +8,7 @@
 
 ## 📋 Description du Projet
 
-Ce repository contient la réalisation du **TP1 : Initiation aux Outils DevOps** du module "Méthodes de développement" à l'Académie Internationale Mohammed VI de l'Aviation Civile (AIAC).
+Ce repository contient la réalisation du **TP1 : Initiation aux Outils DevOps**.
 
 Le projet se concentre sur l'apprentissage des **tests automatisés** et de la **collaboration via Git/GitHub**, en utilisant une approche pratique avec Maven et JUnit.
 
@@ -160,14 +160,6 @@ git commit -m "feat: ajout des tests JUnit et message personnel"
 git push origin feature/message-oussama
 ```
 
-## 👤 Informations du Développeur
-
-- **Nom** : OUSSAMA AHAMDI
-- **Formation** : Génie Informatique - AIAC
-- **Module** : Méthodes de développement
-- **Enseignant** : Pr. AMAL HALHOL
-- **Système** : Kali Linux
-
 ## 📝 Message Personnel
 
 > "Bonjour, je suis Oussama et j'apprends DevOps avec les tests automatisés !"
@@ -190,10 +182,6 @@ Ce projet fait partie d'un exercice académique. Les contributions sont gérées
 4. Push vers la branche (`git push origin feature/nouvelle-fonctionnalite`)
 5. Créer une Pull Request
 
-## 📄 Licence
-
-Ce projet est réalisé dans le cadre académique à l'AIAC - 2024/2025.
-
 ## 🎯 Apprentissages Clés
 
 | Concept | Maîtrisé | Description |
@@ -208,8 +196,6 @@ Ce projet est réalisé dans le cadre académique à l'AIAC - 2024/2025.
 ---
 
 <div align="center">
-
-**🎓 Développé avec passion dans le cadre de la formation DevOps à l'AIAC**
 
 ![Footer](https://img.shields.io/badge/Made%20with-💙-blue?style=for-the-badge)
 
